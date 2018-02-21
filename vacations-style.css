@@ -50,3 +50,11 @@ a:visited {
 a:hover {
     color: #0000ff;
 }
+
+.content {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    padding: 100px;
+}
