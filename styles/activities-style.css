@@ -1,5 +1,5 @@
 .members {
-    background-image: url("/autumn-background-2.jpg");
+    background-image: url("/images/autumn-background-2.jpg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -57,4 +57,17 @@ a:hover {
     font-size: 50px;
     color: #ffffff;
     padding: 100px;
+}
+
+#footer {
+    position: relative;
+    padding-left: 50%;
+    color: #ffffff;
+}
+
+#dev-tag {
+    position: relative;
+    padding-left: 40%;
+    color: #ffffff;
+    text-transform: uppercase;
 }

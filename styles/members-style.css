@@ -1,5 +1,5 @@
 .members {
-    background-image: url("/autumn-background-2.jpg");
+    background-image: url("/images/autumn-background-2.jpg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -48,13 +48,51 @@ a:visited {
 }
 
 a:hover {
-    color: #0000ff;
+    color: #ff0000;
 }
 
 .content {
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 50px;
+    font-size: 28px;
     color: #ffffff;
-    padding: 100px;
+    padding: 50px;
+    height: 65%;
+}
+
+#member-selected {
+    color: #ff0000;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: auto;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+    padding-right: 25px;
+}
+
+span.bio {
+    display: block;
+    margin-left: 100px;
+    margin-right: 10%;
+    background: rgba(0,0,0,.5);
+}
+
+p {
+    display: inline;
+    max-width: 800px;
+}
+
+#footer {
+    position: relative;
+    padding-left: 50%;
+    color: #ffffff;
+}
+
+#dev-tag {
+    position: relative;
+    padding-left: 40%;
+    color: #ffffff;
+    text-transform: uppercase;
 }
