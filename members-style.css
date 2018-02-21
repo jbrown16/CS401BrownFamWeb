@@ -58,3 +58,7 @@ a:hover {
     color: #ffffff;
     padding: 100px;
 }
+
+#member-selected {
+    color: #ff0000;
+}
