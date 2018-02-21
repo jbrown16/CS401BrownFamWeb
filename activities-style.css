@@ -1,0 +1,52 @@
+.members {
+    background-image: url("/autumn-background-2.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.banner {
+    overflow: hidden;
+    height: 100px;
+    background: #ffffff;
+}
+
+.nav-bar {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 8px;
+    text-transform: capitalize;
+    background-color: #9f6934;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 350px;
+    line-height: 20px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    padding: 0px 15px;
+    line-height: 25px;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+a:link {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffff00;
+}
