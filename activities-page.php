@@ -1,5 +1,5 @@
 <?php
-   include($_SERVER['DOCUMENT_ROOT'] . "/session.php");
+   include("session.php");
 ?>
 
 <!DOCTYPE HTML>
@@ -17,7 +17,7 @@
                     <a href="/home.php">
                         <img src="/images/brown-fam-logo-small.png" />
                     </a>
-                    <a href="/logout.php" id="log-out-btn">Log out</a>
+                    <a href="logout.php" id="log-out-btn">Log out</a>
                 </div>
             </div>
             <div class="nav-bar">
