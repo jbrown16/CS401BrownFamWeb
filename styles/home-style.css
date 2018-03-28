@@ -19,6 +19,7 @@ body {
 
 ul {
     display: block;
+    left: 50%;
 }
 
 li {
@@ -35,7 +36,7 @@ li {
 
 a {
     background: rgba(0,0,0,.65);
-    max-width: 500px;
+    width: 500px;
     display: block;
     letter-spacing: .3em;
     padding-top: 4px;
@@ -56,7 +57,7 @@ a:hover {
 }
 
 .home {
-    background-image: url("/images/autumn-background.jpg");
+    background-image: url("/website-cs401/images/autumn-background.jpg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -68,9 +69,8 @@ a:hover {
 
 #main-header-content {
     margin: auto;
-    width: 50%;
+    width: 500px;
     padding: 10px;
-    max-width: 500;
 }
 
 #main-menu {
@@ -84,4 +84,13 @@ a:hover {
 
 #main-nav {
     pointer-events: auto;
+    width: 500px;
+}
+
+#logout-button {
+    color: yellow;
+}
+
+#logout-button:hover {
+    color: #ffffe0;
 }

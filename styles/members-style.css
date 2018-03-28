@@ -1,8 +1,7 @@
 .members {
-    background-image: url("/images/autumn-background-2.jpg");
+    background-image: url("/website-cs401/images/autumn-background.jpg");
+    background-size: 100%;
     background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: center;
 }
 
 .banner {
@@ -71,8 +70,7 @@ img {
     padding-left: 0px;
     padding-right: 25px;
 }
-
-span.bio {
+.bio {
     display: block;
     margin-left: 100px;
     margin-right: 10%;
@@ -85,9 +83,23 @@ p {
 }
 
 #footer {
-    position: relative;
-    padding-left: 50%;
+    position: fixed;
+    bottom: 0;
+    width: 30%;
+    height: 20px;
+    padding-left: 40%;
     color: #ffffff;
+}
+
+#log-out-btn {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    color: darkblue;
+}
+
+#log-out-btn:hover {
+    color: lightblue;
 }
 
 #dev-tag {
