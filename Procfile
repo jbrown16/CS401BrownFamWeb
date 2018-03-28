@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 blooming-cove-31436.herokuapp.com/
+web: vendor/bin/heroku-php-apache2 public/ heroku ps heroku open
