@@ -7,17 +7,17 @@
 <html>
     <head>
         <title>Family Vacations</title>
-        <link href="/website-cs401/images/favicon.ico" rel="shortcut icon">
-		<link rel="stylesheet" href="/website-cs401/styles/vacations-style.css">
+        <link href="/images/favicon.ico" rel="shortcut icon">
+		<link rel="stylesheet" href="/styles/vacations-style.css">
     </head>
     <body class="members">
         <div id="container">
             <div class="banner">
                 <div class="logo">
-                    <a href="/website-cs401/home.php">
-                        <img src="/website-cs401/images/brown-fam-logo-small.png" />
+                    <a href="/home.php">
+                        <img src="/images/brown-fam-logo-small.png" />
                     </a>
-                    <a href="/website-cs401/logout.php" id="log-out-btn">Log out</a>
+                    <a href="/logout.php" id="log-out-btn">Log out</a>
                 </div>
             </div>
             <div class="nav-bar">

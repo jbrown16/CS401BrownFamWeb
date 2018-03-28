@@ -31,15 +31,15 @@
    
    <head>
       <title>Login Page</title>
-      <link href="/website-cs401/images/favicon.ico" rel="shortcut icon">
-      <link rel="stylesheet" type="text/css" href="/website-cs401/styles/login-style.css">
+      <link href="/images/favicon.ico" rel="shortcut icon">
+      <link rel="stylesheet" type="text/css" href="/styles/login-style.css">
    </head>
 
    <body>
 
       <div id="login-area" align="center">
         <h1 class="logo">
-          <img src="/website-cs401/images/brown-fam-logo-login.png" alt="The Brown Family">
+          <img src="/images/brown-fam-logo-login.png" alt="The Brown Family">
         </h1>
         <div id="login-box" align="left">
           <div id="login-title"><b>Login</b></div>
