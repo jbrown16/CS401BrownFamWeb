@@ -23,13 +23,13 @@
                 </div>
             </div>
             <div class="nav-bar myMenu">
-                <ul>
-                    <li class="fam-member dropDownMenu">
-                        <a href="#">Dad</a>
+                <ul class="dropDownMenu">
+                    <li class="fam-member">
+                        <a href="#">MAIN</a>
                             <ul>
-                                <li><a href="#">Members</a></li>
-                                <li><a href="#">Activities</a></li>
-                                <li><a href="#">Vacations</a></li>
+                                <li><a href="/members-page.php">Members</a></li>
+                                <li><a href="/activities-page.php">Activities</a></li>
+                                <li><a href="/vacations-page.php">Vacations</a></li>
                             </ul>
                     </li>
                     <li class="fam-member">
