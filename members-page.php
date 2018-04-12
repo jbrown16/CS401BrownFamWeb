@@ -10,7 +10,6 @@
         <link href="/images/favicon.ico" rel="shortcut icon">
 		<link rel="stylesheet" href="/styles/members-style.css">
         <script type="text/javascript" src="/jquery-src/jquery-3.3.1.min.js"></script>
-        <!-- <script type="text/javascript" src="/jquery-src/jsor-jcarousel-0.3.1-0-g6720a8f/jsor-jcarousel-a3b8ae0/dist/jquery.jcarousel.js"></script> -->
     </head>
     <body class="members">
         <div id="container">
