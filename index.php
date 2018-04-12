@@ -8,7 +8,7 @@
     if (!empty($_POST['username']) && !empty($_POST['password'])) {
     // username and password sent from form
     $myusername = mysqli_real_escape_string($db, $_POST['username']);
-    $mypassword = md5(mysqli_real_escape_string($db, $_POST['password']) + 456); // md5('123abc' + 456);
+    $mypassword = md5(mysqli_real_escape_string($db, $_POST['password']) + 456);
 
     $sql = "SELECT * FROM brown_logins WHERE username = '$myusername' AND password = '$mypassword'";
     $result = mysqli_query($db, $sql);
