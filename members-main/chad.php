@@ -56,7 +56,7 @@
             </div>
             <div class="content">
                 <p>
-                    <img src="/images/justin.jpg" />
+                    <img src="/images/members/chad.JPG" />
                     <span class="bio">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non imperdiet justo, ac tincidunt tortor. Nullam dapibus felis ut ullamcorper blandit.<br><br>
                         Mauris id odio tincidunt, pretium sapien at, semper mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<br><br>
