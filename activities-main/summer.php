@@ -129,13 +129,10 @@
                     </a>
                     <div class="desc">Add a description of the image here</div>
                 </div>
-                <div id="footer">
+            </div>
+            <div id="footer">
                 thebrownfamily.com | Activities
             </div>
-            </div>
-            <!-- <div id="footer">
-                thebrownfamily.com | Activities
-            </div> -->
         </div>
 
         <script type="text/javascript">
