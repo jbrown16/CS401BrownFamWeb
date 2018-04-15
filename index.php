@@ -4,8 +4,8 @@
 
   $errMsgSet = false;
 
-  // if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    if (!empty($_POST['username']) && !empty($_POST['password'])) {
+  if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // if (!empty($_POST['username']) && !empty($_POST['password'])) {
     // username and password sent from form
     $myusername = mysqli_real_escape_string($db, $_POST['username']);
     $mypassword = md5(mysqli_real_escape_string($db, $_POST['password']) + 456);
